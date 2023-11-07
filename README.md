@@ -1,2 +1,2 @@
 # EOLO
-The automatic ocean eddy detection network based on YOLO
+The automatic ocean Eddy detection network based on YOLO
